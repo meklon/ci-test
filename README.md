@@ -1,12 +1,12 @@
 # ci-test
 
 [![wemake.services](https://img.shields.io/badge/%20-wemake.services-green.svg?label=%20&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAbUExURQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP%2F%2F%2F5TvxDIAAAAIdFJOUwAjRA8xXANAL%2Bv0SAAAADNJREFUGNNjYCAIOJjRBdBFWMkVQeGzcHAwksJnAPPZGOGAASzPzAEHEGVsLExQwE7YswCb7AFZSF3bbAAAAABJRU5ErkJggg%3D%3D)](https://wemake.services)
-[![Build Status](https://travis-ci.com/home/ci-test.svg?branch=master)](https://travis-ci.com/home/ci-test)
-[![Coverage](https://coveralls.io/repos/github/home/ci-test/badge.svg?branch=master)](https://coveralls.io/github/home/ci-test?branch=master)
+[![Build Status](https://travis-ci.com/meklon/ci-test.svg?branch=master)](https://travis-ci.com/meklon/ci-test)
+[![Coverage](https://coveralls.io/repos/github/meklon/ci-test/badge.svg?branch=master)](https://coveralls.io/github/meklon/ci-test?branch=master)
 [![Python Version](https://img.shields.io/pypi/pyversions/ci-test.svg)](https://pypi.org/project/ci-test/)
 [![wemake-python-styleguide](https://img.shields.io/badge/style-wemake-000000.svg)](https://github.com/wemake-services/wemake-python-styleguide)
 
-home
+Just a simple test of CI
 
 
 ## Features
@@ -35,7 +35,7 @@ print(some_function(3, 4))
 
 ## License
 
-[MIT](https://github.com/home/ci-test/blob/master/LICENSE)
+[MIT](https://github.com/meklon/ci-test/blob/master/LICENSE)
 
 
 ## Credits
